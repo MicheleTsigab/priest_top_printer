@@ -23,7 +23,9 @@ wheels/
 *.egg 
 *.manifest 
 *.spec 
-
+#media
+*.pdf
+*.png
 #postgress
 postgres_data/
 
