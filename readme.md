@@ -44,6 +44,6 @@ python manage.py rqworker default
  * `Have Fun :)`
 ## Demo
 #### Generated simple invoice
-<img src="demo/client.png" alt="demo">
+<img src="demo/client.png" width="400" height="300" alt="demo">
 
 
